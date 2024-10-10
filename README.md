@@ -2,4 +2,4 @@
 - 👀 I’m interested in SQL/PL-SQL development and Data analytics
 - 🌱 Completed my Post-Graduation degree in IT Business Analysis
 - 💞️ I’m looking to collaborate on projects including data analysis or PL-SQL development.
-- 📫 Reach out to me on almeidanikita0707@gmail.com
+- 📫 Reach out to me on almeidanikita77@gmail.com
